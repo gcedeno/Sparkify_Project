@@ -50,6 +50,8 @@ This project allows to develop two essential data analytics skills, namely:
 **Sprakify_DSND.ipynb** Contains both the code and technical report, it demonstrates the
 process of using pyspark to explore the data and build a churn prediction model on IBM Watson Studio.
 
+The main findings of the code can be found at the post available [here](https://medium.com/@gustavo.a.cedeno/sparkify-predicting-churn-with-apache-spark-on-ibm-watson-studio-e6785159c6ae).
+
 ## Instructions<a name="instructions"></a>
 
 The analysis was implemented using the dataset "medium_sparkify_event_data.json" provided by Udacity.
@@ -63,10 +65,11 @@ deployment on IBM Watson Studio, please refer directly to [IBM Cloud](https://cl
 
 Must give credit to [Insight Data Science](www.insightdatascience.com.) for the data, project idea
 and Spark course which was the main resource used for this implementation.
+
 Author: Gustavo Cedeno following recommendations and requirements from Udacity's Data Science Program.
 [DSND Capstone]Cloud Deployment Instructions.
 
-This project can used as a tutorial on how to launch a Spark cluster on IBM Watson Studio,
-feel free to use the code here as you wish!
+This project can be used as a tutorial on how to launch a Spark cluster on IBM Watson Studio,
+feel free to use the code as you wish!
 
 # Sparkify_Spark_on_IBM_Watson_Studio
